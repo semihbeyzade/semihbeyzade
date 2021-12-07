@@ -1,7 +1,6 @@
-### Hi there 👋
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/source.gif" align="right" width="400" height="250">
 
-### Hallo, ich bin Sakir. :blush:
+### Hallo, ich bin Semih. :blush:
 
 ## Fullstack Webentwickler
 
@@ -39,9 +38,9 @@
 </details>
 
 
-[twitter]: https://twitter.com/tufan_sakir
-[linkedin]: https://linkedin.com/in/sakirtufan
-[xing]: https://www.xing.com/profile/Sakir_Tufan/cv
+
+[linkedin]: https://www.linkedin.com/in/semih-beyzade-%C3%B6rscelik/
+[xing]: https://www.xing.com/profile/SemihBeyzade_Oerscelik/cv
 
 <!--
 **semihbeyzade/semihbeyzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
