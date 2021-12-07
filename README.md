@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/source.gif" align="right" width="400" height="250">
+<img src="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe" align="right" width="400" height="250">
 
 ### Hallo, ich bin Semih. :blush:
 
