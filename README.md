@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47fk1glouhufo2i30re9ev92046kl3z0ygms288pm4&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
-### Hallo, ich bin Semih. :blush:
+### Hallo, ich bin Semih... :blush:
 
 ## Fullstack Webentwickler
 
