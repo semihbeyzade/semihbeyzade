@@ -4,7 +4,7 @@
 
 ## Fullstack Webentwickler
 
-<font color="pink">Rom wurde nicht an einem Tag erbaut.</font>
+<font color="pink">Rom wurde nicht an einem Tag erbaut!</font>
 
 ### Erreichen Sie mich 
 
